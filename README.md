@@ -34,7 +34,7 @@
 | **experienceaccumulator** | 经验累积器：安全写入 + 队列校验 + 报错捕获 + 晋升技能 | scripts/ 六件套（已附） |
 | **experience-triage** | 一次纠错向哪分流：规则/经验/教训/wiki/技能 | 无 |
 | **retrospective-lesson** | 教训（lessons）的写作格式与查重 | 无 |
-| **ai-retrospective-skill** | 独立的四阶段复盘流程（另一套方法论，可作对照） | 无 |
+| **session-retro** | 单次会话体检：六维判定口径 + 一页输出模板（原创） | 无 |
 | **llm-wiki** | LLM Wiki 原版（llm-wiki-slim 的源头，可对照精简版） | 无 |
 
 ## 推荐流水线
