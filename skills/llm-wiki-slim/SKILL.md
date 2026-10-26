@@ -37,6 +37,8 @@ wiki/
 3. 写 `SCHEMA.md`：Domain、Conventions（文件名英文小写连字符、frontmatter、互链 `[[slug|显示名]]` ≥2、更新 bump updated、入 index、写 log、出处标记）、Frontmatter 字段、raw 的 sha256 规则、Tag Taxonomy（10-20 个）、Page Thresholds、Update Policy
 4. 写 `index.md`（按类型分区 + Total pages / Last updated）和 `log.md`（create 条目）
 
+示例：`examples/demo-wiki/` 是一份 4 页最小可用库（含 SCHEMA / index / log 与 4 个示例页，过 lint），整目录拷成你的 wiki，改 Domain 与 Tag Taxonomy 即用。
+
 完成判据：三文件齐、目录齐、已告知用户可开始投喂。
 
 ## Ingest workflow
