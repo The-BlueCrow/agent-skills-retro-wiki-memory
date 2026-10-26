@@ -36,7 +36,8 @@ txt="\n".join(se)[:1200]
 txt=re.sub(r"(sk-[A-Za-z0-9]{8,}|Bearer\s+\S+|api[_-]?key[\"'\'':=\s]+\S+)", "[REDACTED]", txt, flags=re.I)
 print(txt)' 2>/dev/null || echo "(见 hook 输入)")
 
-N=$(grep -c "^\## \[ERR-$DAY" "$FILE" 2>/dev/null || echo 0)
+N=$(grep -c "^\## \[ERR-$DAY" "$FILE" 2>/dev/null || true)
+N=${N:-0}
 cat >> "$FILE" <<ENTRY
 ## [ERR-$DAY-$(printf '%03d' $((N + 1)))] bash-hook
 **Logged**: $TS
