@@ -31,7 +31,7 @@
 | **agent-memory-opt** | 长期记忆审计与瘦身（四步法） | 无 |
 | **minnow-token-efficiency** | 省 token：小读、批调用、防上下文膨胀 | 无 |
 | **skill-library-ops** | 技能库三库分层（运行时/源库/底稿）安装运维 | 无 |
-| **experienceaccumulator** | 经验累积器：安全写入 + 队列校验 + 报错捕获 + 晋升技能 | scripts/ 六件套（已附） |
+| **experience-accumulator** | 经验累积器：安全写入 + 队列校验 + 报错捕获 + 晋升技能 | scripts/ 六件套（已附） |
 | **experience-triage** | 一次纠错向哪分流：规则/经验/教训/wiki/技能 | 无 |
 | **retrospective-lesson** | 教训（lessons）的写作格式与查重 | 无 |
 | **session-retro** | 单次会话体检：六维判定口径 + 一页输出模板（原创） | 无 |
@@ -46,7 +46,7 @@
       ③ wiki   → llm-wiki-slim（ingest 三连 + lint）
       ④ commit → 本地知识仓一笔提交
   → experience-triage（分流拿不准时的路由器）
-  → 经验沉淀   → experienceaccumulator（队列+激活）
+  → 经验沉淀   → experience-accumulator（队列+激活）
   → 记忆臃肿   → agent-memory-opt（瘦身）
   → 上下文浪费 → minnow-token-efficiency（省 token）
 ```

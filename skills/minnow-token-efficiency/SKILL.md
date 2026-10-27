@@ -1,5 +1,5 @@
 ---
-name: Token Efficiency
+name: minnow-token-efficiency
 description: Avoid unnecessary context burn. Surgical file reads, batched commands, less narration. Every token read is a token taxed.
 ---
 
