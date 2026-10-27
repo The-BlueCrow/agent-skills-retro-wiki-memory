@@ -2,7 +2,7 @@
 name: skill-library-ops
 description: "Manage the three-library skill setup (runtime/source/底稿)."
 version: 0.1.0
-author: community
+author: The-BlueCrow
 license: MIT
 platforms: [linux, macos]
 tags: [skills, library, install, backup, sync]

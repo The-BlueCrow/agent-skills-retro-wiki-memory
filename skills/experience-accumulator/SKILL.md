@@ -2,7 +2,7 @@
 name: experience-accumulator
 version: 1.0.0
 description: "经验累积器 — 自动沉淀踩坑经验、错误日志、功能需求，识别重复模式，晋升全局规范，支持 SkillHub CLI 一键安装。内置容错保护、环境校验、安全写入。触发场景：需要记录学习经验、追踪错误日志、管理功能需求、沉淀团队规范。"
-author: 团子 🦐
+author: The-BlueCrow
 license: MIT
 tags:
   - self-improvement

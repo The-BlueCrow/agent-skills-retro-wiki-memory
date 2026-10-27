@@ -1,5 +1,6 @@
 ---
 name: minnow-token-efficiency
+author: The-BlueCrow
 description: Avoid unnecessary context burn. Surgical file reads, batched commands, less narration. Every token read is a token taxed.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: retrospective-lesson
+author: The-BlueCrow
 slug: retrospective-lesson
 version: 1.5.0
 license: MIT

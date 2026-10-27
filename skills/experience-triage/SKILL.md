@@ -2,7 +2,7 @@
 name: experience-triage
 description: "Use when a user correction or experience mention shows up and it must be routed into the library (rule / experience / lesson / wiki / skill)."
 version: 1.0.0
-author: community
+author: The-BlueCrow
 license: MIT
 tags: [triage, rules, experience, retrospective, knowledge]
     related_skills: [retrospective-lesson, minnow-token-efficiency]

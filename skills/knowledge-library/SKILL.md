@@ -2,7 +2,7 @@
 name: knowledge-library
 description: "Use when checking or filling the local knowledge library."
 version: 1.1.0
-author: community
+author: The-BlueCrow
 license: MIT
 tags: [knowledge, skills-library, experience, memory, audit]
     related_skills: [skill-library-ops, skill-finder]

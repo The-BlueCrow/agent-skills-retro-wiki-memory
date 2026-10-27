@@ -2,7 +2,7 @@
 name: agent-memory-opt
 description: "Audit and optimize an agent's memory footprint end to end."
 version: 1.0.0
-author: community
+author: The-BlueCrow
 license: MIT
 tags: [memory, audit, retention, metadata, alert, layering]
 ---

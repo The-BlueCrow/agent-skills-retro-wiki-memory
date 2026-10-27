@@ -1,5 +1,6 @@
 ---
 name: llm-wiki-slim
+author: The-BlueCrow
 description: "Karpathy LLM Wiki：投喂、查询、体检持久化 markdown 知识库。"
 ---
 

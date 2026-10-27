@@ -2,7 +2,7 @@
 name: retrospective-ops
 description: "Use when 用户说复盘/总结/回顾，或本轮踩坑、跨 agent 交接失败。四连（lessons/技能/wiki/commit）+八校对+硬门槛收尾."
 version: 1.0.0
-author: community
+author: The-BlueCrow
 license: MIT
 tags: [retrospective, workflow, ops]
     related_skills: [problem-solving-methodology, llm-wiki-slim, knowledge-library]

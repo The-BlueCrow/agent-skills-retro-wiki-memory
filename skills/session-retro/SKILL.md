@@ -1,5 +1,6 @@
 ---
 name: session-retro
+author: The-BlueCrow
 version: 1.0.0
 description: >-
   单次 AI 协作会话的结构化体检：会话收尾时回看整段对话，从六个维度判定哪里走直了、
